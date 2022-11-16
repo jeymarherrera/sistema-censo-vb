@@ -1,0 +1,2 @@
+# Sistema de Censo 2022 del Tribunal Electoral
+Examen realizado en Visual Basic 2022, el cual fuenciona de manera que se puede llevar registro de las encuestas realizadas por diferentes supervisores. Teniendo la posibilidad de mostrar un análisis rápido de aquellos datos generales y necesarios que se desean coonocer en una actividad enfocada al conteo de los ciudadanos de un pais. Haciendo uso de todos los conocimientos obtenido en el curso de Desarrollo, enfocado en el aprendizaje de Visual Basic .NET y aplicando las buenas practicas de programación.
